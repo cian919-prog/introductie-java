@@ -1,9 +1,11 @@
 size(400,400);
 background(0,255,255);
 strokeWeight(5);
-fill(255,0,0);
 line(50,350,50,50);
+fill(0,0,0);
+ellipse(50,50,20,20);
 strokeWeight(1);
+fill(255,0,0);
 rect(50,50,250,80);
 fill(255,255,255);
 rect(50,130,250,80);

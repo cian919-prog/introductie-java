@@ -1,0 +1,15 @@
+size(800,800);
+fill(255,255,0);
+ellipse(400,400,500,500);
+strokeWeight(15);
+arc(300,300,110,100,1*PI,2*PI);
+strokeWeight(0);
+fill(255,255,255);
+ellipse(300,350,100,100);
+arc(500,350,110,100,1*PI,2*PI);
+strokeWeight(30);
+noFill();
+arc(500,300,120,110,1*PI,2*PI);
+noStroke();
+fill(255,255,255);
+ellipse(400,525,200,200);

@@ -1,0 +1,16 @@
+size(800,800);
+int a1=100;
+fill(255,255,0);
+ellipse(a1*4,a1*4,a1*5,a1*5);
+strokeWeight(a1*0.15);
+arc(a1*3,a1*3,a1*1.1,a1*1,1*PI,2*PI);
+strokeWeight(a1*0);
+fill(255,255,255);
+ellipse(a1*3,a1*3.5,a1,a1);
+arc(a1*5,a1*3.5,a1*1.1,a1,1*PI,2*PI);
+strokeWeight(a1*0.3);
+noFill();
+arc(a1*5,a1*3,a1*1.2,a1*1.1,1*PI,2*PI);
+noStroke();
+fill(255,255,255);
+ellipse(a1*4,a1*5.25,a1*2,a1*2);
